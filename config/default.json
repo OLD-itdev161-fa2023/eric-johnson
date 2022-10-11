@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://eric-johnson:ejmong1104@cluster0.wsw2wpv.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://eric-johnson:ejmong1104@cluster0.wsw2wpv.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "peterparkerisspiderman"
 }
